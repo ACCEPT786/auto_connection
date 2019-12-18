@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1baa9bf7-f9e5-4f06-9348-32845cc91f1e" name="Default Changelist" comment="" />
+    <list default="true" id="1baa9bf7-f9e5-4f06-9348-32845cc91f1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_connection.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/geckodriver" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1V4fdJpWaosquyw7LnP22UeqNgU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576517373959</updated>
       <workItem from="1576517385999" duration="353000" />
-      <workItem from="1576553366533" duration="10020000" />
+      <workItem from="1576553366533" duration="10271000" />
     </task>
     <servers />
   </component>
